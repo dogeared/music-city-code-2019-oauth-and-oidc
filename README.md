@@ -1,5 +1,5 @@
 ## OAuth 2.0 and OpenID Connect in Plain English
-### AWS Community Day - Melbourne - 2019
+### Music City Code - 2019
 
 * [Presentation](OAuthandOpenIDConnectInPlainEnglish.pdf)
 * [pkce-cli](https://github.com/oktadeveloper/pkce-cli)
